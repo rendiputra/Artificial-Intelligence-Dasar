@@ -1,1 +1,1 @@
-## Untuk dataset tidak diupload ke github karena file berukuran besar, silahkan download [https://www.kaggle.com/rakshana0802/face-mask-detection-data](Download dataset disini).
+## Untuk dataset tidak diupload ke github karena file berukuran besar, silahkan download [Download dataset disini](https://www.kaggle.com/rakshana0802/face-mask-detection-data).
